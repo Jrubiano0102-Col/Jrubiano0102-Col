@@ -22,7 +22,7 @@
 
 ```typescript
 const jrubiano = {
-  ubicacion:   "Colombia 🇨🇴",
+  ubicacion:   "Bogota D.C - Colombia",
   rol:         "Full Stack Developer & AI Engineer",
   intereses:   ["Web Development", "IA", "Cloud"],
   actualmente: "Java + Spring Boot & IA generativa",
@@ -38,7 +38,7 @@ const jrubiano = {
 
 <div align="center">
 
-## Technologies That I Know 👨🏻‍💻
+## Tecnologias que conozco 👨🏻‍💻
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
@@ -50,7 +50,7 @@ const jrubiano = {
 
 <div align="center">
 
-## Connect With Me 🤝
+## Contactame 🤝
 
 <a href="https://www.linkedin.com/in/1010nishant/" target="_blank">
   <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/>
