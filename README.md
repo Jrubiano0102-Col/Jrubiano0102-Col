@@ -41,7 +41,7 @@ const jrubiano = {
 ## Tecnologias que conozco 👨🏻‍💻
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,bots,docker,github,html,r,php,java,js,md,mysql,powershell,nodejs,py,vscode&perline=14" />
 </a>
 
 </div>
