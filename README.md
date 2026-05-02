@@ -62,7 +62,7 @@ const jrubiano = {
   <img src="https://skillicons.dev/icons?i=instagram&perline=14" alt="instagram" height="50" width="50"/>
 </a>
 <a href="https://1010nishant.hashnode.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hashnode&perline=14" alt="hashnode" height="50" width="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="50" width="50"/>
 </a>
 <a href="https://discordapp.com/users/957722095381540874" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord&perline=14" alt="discord" height="50" width="50"/>
