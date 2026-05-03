@@ -3,13 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jrubiano+%F0%9F%91%8B;Full+Stack+Developer;AI+Engineer;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ## 👨🏻‍💻 Sobre mí
 
