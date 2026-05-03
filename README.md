@@ -16,7 +16,7 @@
 ```typescript
 const jrubiano = {
   ubicacion:   "Bogota D.C - Colombia",
-  rol:         "Full Stack Developer & AI Engineer",
+  rol:         "Full Stack Developer &  Engineer",
   intereses:   ["Web Development", "IA", "Cloud"],
   actualmente: "Java + Spring Boot & IA generativa",
   objetivo:    "Crear soluciones que tengan impacto real",
