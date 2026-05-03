@@ -57,7 +57,7 @@ const jrubiano = {
   <img src="https://skillicons.dev/icons?i=twitter&perline=14" alt="twitter" height="50" width="50"/>
 </a>
 <a href="https://www.instagram.com/rusec_rubiano/" target="_blank">
-  <img src="https://www.instagram.com/rusec_rubiano/" alt="instagram" height="50" width="50"/>
+  <img src="https://skillicons.dev/icons?i=instagram&perline=14" alt="instagram" height="50" width="50"/>
 </a>
 <a href="https://1010nishant.hashnode.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="50" width="50"/>
