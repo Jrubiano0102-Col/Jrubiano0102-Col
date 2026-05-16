@@ -45,9 +45,7 @@ const jrubiano = {
 
 ## Contactame 🤝
 
-</a>
-<a href="https://twitter.com/1010nishant" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter&perline=14" alt="twitter" height="50" width="50"/>
+
 </a>
 <a href="https://www.instagram.com/rusec_rubiano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram&perline=14" alt="instagram" height="50" width="50"/>
